@@ -2,7 +2,7 @@
 """
 Created on Sun Feb  2 17:23:27 2025
 
-@author: aluiz
+@author: Aluizio d'Affonsêca Netto
 """
 
 import numpy as np
